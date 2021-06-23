@@ -1,0 +1,10 @@
+Enter the city name: Bangalore
+------------------------------------------------------------
+Weather Stats for - BANGALORE  // 23 Jun 2021 / 08:15:01 PM
+-------------------------------------------------------------
+Current temperature is: 23.00 deg C
+Current weather desc  : scattered clouds
+Current Humidity      : 100%
+Current wind speed    : 7.2 kmph
+
+
